@@ -1,0 +1,5 @@
+Dacia,Sedan,B123ABC
+BMW,Sedan,B456DEF
+Audi,SUV,B789GHI
+Chevrolet,Coupe,TM39AIS
+Ferrari,Sport,AR10ABC

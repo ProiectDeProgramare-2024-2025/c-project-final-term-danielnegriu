@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746396216 source:c:\users\dann\documents\c++ projects\flota auto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
